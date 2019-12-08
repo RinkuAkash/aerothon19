@@ -1,0 +1,7 @@
+{
+  "name": "Crop Insurance",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
