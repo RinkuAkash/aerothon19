@@ -1,0 +1,11 @@
+The frontend is developed using Ionic framework.
+Step 1:Install Angular 8: https://angular.io/guide/setup-local
+Step 2: Install Ionic 5: https://ionicframework.com/docs/installation/cli
+Step 3: Clone the repo and run the command
+'''npm install'''
+Step 4:To run the code
+'''ionic cordova run {platform}'''
+The Backend is deveped using Python3.
+
+Step 1: Install python
+Step 2: Install python-flask,requests and json using pip install
